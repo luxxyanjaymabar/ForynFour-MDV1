@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285380166282'] 
+global.owner = ['6288210072756'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285380166282']
+global.kontak = ['6288210072756']
 
 //  INFO BOT 
-global.naown = 'KAHFI MAKER'
-global.noown = '6285380166282'
-global.namebot = 'Yt Maxxy Botz'
-global.nobot = '6285295374964'
+global.naown = 'BTR Luxxy'
+global.noown = '6288210072756'
+global.namebot = 'LuccyBoy'
+global.nobot = '6287818916348'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/kahfiofc0'
-global.github = 'https://github.com/Frezzy-XD'
-global.gc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.web = 'https://lynk.id/kahfi.xd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/MaxxyBotz'
+global.instagram = 'https://instagram.com/luxxyxyz'
+global.github = 'https://github.com/luxxyanjaymabar'
+global.gc = '-'
+global.web = '-' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = '-'
 
 // PAYMANT 
-global.dana = '085380166282'
-global.pulsa = '085295374964'
-global.gopay = ''
-global.shopay = ''
-global.ovo = ''
+global.dana = '088210072756'
+global.pulsa = '088210072756'
+global.gopay = '088210072756'
+global.shopay = '088210072756'
+global.ovo = '088210072756'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ LuccyBot'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Kahfi Maker'
-global.wm3 = '⫹⫺ Yt Maxxy Botz | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 LuxxyXyz'
+global.wm3 = '⫹⫺ LuccyBot | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Yt Maxxy Botz'
-global.author = 'By Kahfi Maker'
+global.packname = 'LuccyBot'
+global.author = '©By LuxxyXyz'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
